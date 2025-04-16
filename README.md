@@ -23,5 +23,5 @@ Welcome to my cloud portfolio! I am an aspiring Cloud Engineer with AWS certific
 
 Stay tuned for project updates! 🚀
 
-                                                 ![Deploy to S3](https://img.shields.io/github/actions/workflow/status/krishank-cloud/cloud-resume/deploy.yml?branch=main)
+  ![Deploy to S3](https://img.shields.io/github/actions/workflow/status/krishank-cloud/cloud-resume/deploy.yml?branch=main)
 
