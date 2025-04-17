@@ -1,6 +1,10 @@
 # 🚀 Krishan Kumar's Cloud Portfolio  
 
+# ☁️ Krishan's Cloud Resume
+
 [![CI/CD - Deployed via GitHub Actions](https://img.shields.io/github/actions/workflow/status/krishank-cloud/cloud-resume/deploy.yml?branch=main&label=Deployed%20via%20CI%2FCD&logo=githubactions&style=for-the-badge&color=blueviolet)](https://krishankcloud.com)
+
+This is my cloud-based portfolio and resume...
 
 Welcome to my cloud portfolio! I am an aspiring Cloud Engineer with AWS certification and a passion for cloud computing. This portfolio showcases hands-on projects demonstrating my cloud skills.
 
